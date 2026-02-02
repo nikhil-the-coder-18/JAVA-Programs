@@ -44,14 +44,13 @@ Core Object-Oriented Programming concepts.
 
 ---
 
-### 🔹 `03-dsa`  → **FROM: Basic Logic → TO: Interview-Level Thinking**
-Data Structures & Algorithms using Java.
-- Arrays & Strings
-- Searching & Sorting
-- Recursion & Binary Search
-- Linked List, Stack, Queue (later)
+### 🔹 `03-collections`  → **FROM: Arrays → TO: Real-World Data Handling**
+Java Collection Framework.
+- ArrayList, LinkedList
+- HashMap, HashSet
+- Iterator, Comparator
 
-👉 Purpose: Clear coding rounds & logic tests
+👉 Purpose: Industry-level data manipulation (very important for interviews)
 
 ---
 
@@ -65,13 +64,14 @@ Exception handling in Java.
 
 ---
 
-### 🔹 `05-collections`  → **FROM: Arrays → TO: Real-World Data Handling**
-Java Collection Framework.
-- ArrayList, LinkedList
-- HashMap, HashSet
-- Iterator, Comparator
+### 🔹 `05-dsa`  → **FROM: Basic Logic → TO: Interview-Level Thinking**
+Data Structures & Algorithms using Java.
+- Arrays & Strings
+- Searching & Sorting
+- Recursion & Binary Search
+- Linked List, Stack, Queue (later)
 
-👉 Purpose: Industry-level data manipulation (very important for interviews)
+👉 Purpose: Clear coding rounds & logic tests
 
 ---
 
