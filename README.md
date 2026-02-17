@@ -44,16 +44,6 @@ Core Object-Oriented Programming concepts.
 
 ---
 
-### 🔹 `03-collections`  → **FROM: Arrays → TO: Real-World Data Handling**
-Java Collection Framework.
-- ArrayList, LinkedList
-- HashMap, HashSet
-- Iterator, Comparator
-
-👉 Purpose: Industry-level data manipulation (very important for interviews)
-
----
-
 ### 🔹 `04-exceptions`  → **FROM: Crashing Programs → TO: Safe Code**
 Exception handling in Java.
 - try-catch-finally
@@ -61,6 +51,16 @@ Exception handling in Java.
 - Custom exceptions
 
 👉 Purpose: Write robust, error-safe programs
+
+---
+
+### 🔹 `03-collections`  → **FROM: Arrays → TO: Real-World Data Handling**
+Java Collection Framework.
+- ArrayList, LinkedList
+- HashMap, HashSet
+- Iterator, Comparator
+
+👉 Purpose: Industry-level data manipulation (very important for interviews)
 
 ---
 
