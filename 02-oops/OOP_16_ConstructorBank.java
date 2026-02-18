@@ -22,7 +22,7 @@ class Bank {
     }
 }
 
-public class COOP_16_ConstructorBank {
+public class OOP_16_ConstructorBank {
     public static void main(String[] args) {
 
         Bank user1 = new Bank(8511166, "Nikhil", 202002);
