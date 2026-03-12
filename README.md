@@ -1,11 +1,11 @@
 # Java Engineering Roadmap 🚀
 
-This repository documents my **step-by-step journey from Core Java to Java Backend Development**.  
-It is **not random practice code** — it follows a structured roadmap designed for **placements and real-world backend roles**.
+This repository documents my **step-by-step journey from Java fundamentals to backend-ready Java development**.  
+It is **not random practice code** — it follows a structured roadmap designed for **becoming a Java Backend Developer**.
 
-📌 **Focus:** Java, OOPs, DSA, JDBC, Spring Boot  
-📌 **Goal:** Java Backend Developer  
-📌 **Timeline:** Jan 2026 → Placement (2027–28)
+📌 **Focus:** Java Engineering Fundamentals  
+📌 **Goal:** Build strong Java fundamentals + problem solving before moving into backend frameworks  
+📌 **Timeline:** January 2026 → March 2026
 
 ---
 
@@ -16,142 +16,116 @@ It is **not random practice code** — it follows a structured roadmap designed 
 - Clean, readable, industry-style code
 - Practice + mini-projects instead of theory dumping
 
-This repo grows as my skills grow.
+This repository grows as my skills grow.
 
 ---
 
 ## 📂 Repository Structure (FROM → TO)
 
-### 🔹 `01-basics`  → **FROM: Zero Java**
-Java fundamentals and logic building.
-- Variables, data types
-- Conditions & loops
-- Methods, input/output
+### 🔹 `01-basics` → **FROM: Zero Java**
 
-👉 Purpose: Build syntax + logical thinking foundation
+Java fundamentals and logic building.
+
+- Variables & Data Types  
+- Conditions & Loops  
+- Methods & Input/Output  
+
+👉 Purpose: Build syntax understanding and logical thinking foundation.
 
 ---
 
-### 🔹 `02-oops`  → **FROM: Procedural → TO: Object-Oriented Thinking**
+### 🔹 `02-oops` → **FROM: Procedural → TO: Object-Oriented Thinking**
+
 Core Object-Oriented Programming concepts.
-- Classes & Objects
-- Constructors, `this`
-- Inheritance & Polymorphism
-- Abstraction & Encapsulation
+
+- Classes & Objects  
+- Constructors, `this` keyword  
+- Inheritance & Polymorphism  
+- Abstraction & Encapsulation  
 - Access modifiers, `static`
 
-👉 Purpose: Stop writing everything in `main()` and think like an engineer
+👉 Purpose: Move from writing everything inside `main()` to structured OOP design.
 
 ---
 
-### 🔹 `04-exceptions`  → **FROM: Crashing Programs → TO: Safe Code**
-Exception handling in Java.
-- try-catch-finally
-- throw & throws
-- Custom exceptions
+### 🔹 `03-collections` → **FROM: Arrays → TO: Real-World Data Handling**
 
-👉 Purpose: Write robust, error-safe programs
-
----
-
-### 🔹 `03-collections`  → **FROM: Arrays → TO: Real-World Data Handling**
 Java Collection Framework.
-- ArrayList, LinkedList
-- HashMap, HashSet
-- Iterator, Comparator
 
-👉 Purpose: Industry-level data manipulation (very important for interviews)
+- ArrayList  
+- LinkedList  
+- HashMap  
+- HashSet  
+- Iterators & Comparators  
 
----
-
-### 🔹 `05-dsa`  → **FROM: Basic Logic → TO: Interview-Level Thinking**
-Data Structures & Algorithms using Java.
-- Arrays & Strings
-- Searching & Sorting
-- Recursion & Binary Search
-- Linked List, Stack, Queue (later)
-
-👉 Purpose: Clear coding rounds & logic tests
+👉 Purpose: Learn real-world data structures commonly used in backend development and interviews.
 
 ---
 
-### 🔹 `06-multithreading`  → **FROM: Single Task → TO: Parallel Execution**
+### 🔹 `04-exceptions` → **FROM: Crashing Programs → TO: Safe Code**
+
+Exception handling in Java.
+
+- try-catch-finally  
+- throw vs throws  
+- Custom exceptions  
+
+👉 Purpose: Write robust programs that handle failures safely.
+
+---
+
+### 🔹 `05-multithreading` → **FROM: Single Task → TO: Parallel Execution**
+
 Multithreading basics.
-- Thread & Runnable
-- Synchronization (basics)
 
-👉 Purpose: Understand performance concepts (no overkill)
+- Thread class  
+- Runnable interface  
+- Synchronization basics  
 
----
-
-### 🔹 `07-jdbc`  → **FROM: Java Only → TO: Java + Database**
-Java Database Connectivity.
-- MySQL connection
-- CRUD operations
-- PreparedStatement
-
-👉 Purpose: Backend entry point
+👉 Purpose: Understand how modern applications handle multiple tasks efficiently.
 
 ---
 
-### 🔹 `08-mini-projects`  → **FROM: Concepts → TO: Application**
-Console and JDBC-based mini projects.
-- Bank Account System
-- Library Management System
-- Student Record System
+### 🔹 `06-mini-projects` → **FROM: Concepts → TO: Application**
 
-👉 Purpose: Prove practical understanding
+Console-based and JDBC-based mini projects.
 
----
+- Bank Account System  
+- Library Management System  
+- Student Record System  
 
-### 🔹 `09-spring-boot`  → **FROM: Core Java → TO: Modern Backend**
-Spring Boot & REST APIs.
-- Dependency Injection
-- REST controllers
-- JPA + MySQL
-- API testing with Postman
-
-👉 Purpose: Job-ready backend skills
-
----
-
-### 🔹 `10-mega-project`  → **FROM: Student → TO: Job-Ready Developer**
-A complete backend project.
-- E-commerce Backend / Blogging API
-- Authentication & CRUD APIs
-
-👉 Purpose: Resume + placement project
+👉 Purpose: Apply concepts in practical scenarios and build problem-solving ability.
 
 ---
 
 ## 🛠️ Tools & Tech Stack
 
-- Java
-- MySQL
-- JDBC
-- Spring Boot
-- Git & GitHub
-- Postman
+- Java  
+- Git  
+- GitHub  
 
 ---
 
 ## 📈 Progress Tracking
 
-- Daily coding practice
-- Weekly revision
-- Continuous refactoring & improvement
+- Daily coding practice  
+- Weekly revision  
+- Continuous refactoring & improvement  
 
-This repository is **actively maintained** as I progress through the roadmap.
+This repository is **actively maintained as I progress through the roadmap**.
 
 ---
 
 ## 🎯 End Goal
 
 By the end of this roadmap, I aim to:
-- Be placement-ready as a **Java Backend Developer**
-- Build real, scalable backend applications
-- Crack technical interviews with confidence
+
+- Build strong Java programming fundamentals  
+- Write clean, readable, object-oriented code  
+- Understand commonly used Java data structures  
+- Create practical mini-projects demonstrating real understanding  
+- Prepare myself for the **next stage: Backend development with Spring Boot**
 
 ---
 
-> “Consistency beats talent when talent doesn’t work consistently.”
+> **“Small consistent improvements every day lead to serious long-term growth.”**
